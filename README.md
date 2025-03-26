@@ -1,2 +1,2 @@
-# Gestion-de-Biblioth-que-en-Python
+# Gestion-de-Bibliothéque-en-Python
 Ce projet implémente un système de gestion de bibliothèque en utilisant la programmation orientée objet (POO). Il permet d'ajouter, supprimer, emprunter et retourner des livres tout en maintenant un historique des emprunts. Les listes chaînées sont utilisées pour stocker dynamiquement les livres, tandis que les piles et les files servent à gérer l'historique des emprunts et les files d'attente des utilisateurs. L'application propose une interface interactive en ligne de commande pour une utilisation intuitive.
